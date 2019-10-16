@@ -7,18 +7,23 @@ import DataStructureUtils.ListNode;
 
 public class RemoveNodeFromEnd {
     public static ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode tmp = head;
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        int length = 0;
         ListNode first = head;
-        ListNode second = head;
-        for (int i = 0; i <= n; i++) {
-            first = first.next;
-        }
         while (first != null) {
+            length++;
             first = first.next;
-            second = second.next;
         }
-        second.next = second.next.next;
-        return tmp;
+        first = dummy;
+        length = length - n;
+        while (length > 0) {
+            length--;
+            first = first.next;
+        }
+        System.out.println(first.val);
+        first.next = first.next.next;
+        return dummy.next;
     }
 
     public static void main(String[] args) {
