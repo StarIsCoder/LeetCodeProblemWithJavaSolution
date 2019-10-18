@@ -86,3 +86,5 @@ Some practice about algorithm based on java.
 42.ShiftString.java - 判断一个字串是否能通过平移等于另一个字串
 
 43.ThreeSumEqualZero.java - 找出集合中三个元素和为0的所有组合
+
+44.GenerateParentheses.java - 根据n输出所有匹配括号的子串
