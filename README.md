@@ -88,3 +88,5 @@ Some practice about algorithm based on java.
 43.ThreeSumEqualZero.java - 找出集合中三个元素和为0的所有组合
 
 44.GenerateParentheses.java - 根据n输出所有匹配括号的子串
+
+45.SearchInRotatedSortedArray.java - 从一个折叠过的数组中返回target的索引
