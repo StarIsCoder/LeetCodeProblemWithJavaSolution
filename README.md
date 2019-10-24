@@ -90,3 +90,5 @@ Some practice about algorithm based on java.
 44.GenerateParentheses.java - 根据n输出所有匹配括号的子串
 
 45.SearchInRotatedSortedArray.java - 从一个折叠过的数组中返回target的索引
+
+46.FindFirstAndLastPositionInSortedArray.java - 从一个排序数组中找到第一个和最后一个target值对应的索引
