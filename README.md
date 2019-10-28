@@ -92,3 +92,5 @@ Some practice about algorithm based on java.
 45.SearchInRotatedSortedArray.java - 从一个折叠过的数组中返回target的索引
 
 46.FindFirstAndLastPositionInSortedArray.java - 从一个排序数组中找到第一个和最后一个target值对应的索引
+
+47.CombinationSum.java - 返回所有和等于target的子元素
