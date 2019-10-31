@@ -96,3 +96,5 @@ Some practice about algorithm based on java.
 47.CombinationSum.java - 返回所有和等于target的子元素
 
 48.Permutation.java - 返回给定数组的所有排列组合
+
+49.RotateMatrix.java - 顺时针90度翻转矩阵
