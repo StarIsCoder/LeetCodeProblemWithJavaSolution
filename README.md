@@ -101,4 +101,6 @@ Some practice about algorithm based on java.
 
 50.GroupAnagrams.java - 将传入的string数组分类（无关顺序）
 
-51UniquePaths.java - 起点到终点的所有路径个数
+51.UniquePaths.java - 起点到终点的所有路径个数
+
+52.MinPathSum.java - 左上到右下的最短路径
