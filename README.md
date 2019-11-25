@@ -106,3 +106,5 @@ Some practice about algorithm based on java.
 52.MinPathSum.java - 左上到右下的最短路径
 
 53.SortColors.java - 将传入的数组排序(one-pass solution)
+
+54.SubSets.java - 返回所有数组的子序列不包含重复元素
