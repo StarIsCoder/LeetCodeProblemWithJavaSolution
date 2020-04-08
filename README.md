@@ -110,3 +110,7 @@ Some practice about algorithm based on java.
 54.SubSets.java - 返回所有数组的子序列不包含重复元素
 
 55.UniqueBSTCound.java -  根据1...n 返回BST个数
+
+56.Sqrt.java - 求根号
+
+57.RemoveDuplicateFromSortedArray.java -  从有序列表中清空重复元素
