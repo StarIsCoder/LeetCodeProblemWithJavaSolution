@@ -114,3 +114,7 @@ Some practice about algorithm based on java.
 56.Sqrt.java - 求根号
 
 57.RemoveDuplicateFromSortedArray.java -  从有序列表中清空重复元素
+
+58.levelOrderBottomTraverseBT - 根据level高低遍历二叉树
+
+59.PatternSearch - 字符串匹配
